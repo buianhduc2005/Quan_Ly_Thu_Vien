@@ -6,7 +6,8 @@ Hệ thống Quản lý Thư viện được phát triển nhằm hỗ trợ cô
 
 ## 1. GIỚI THIỆU
 
-[CHÈN HÌNH ẢNH LOGO HOẶC BANNER CỦA TRƯỜNG/KHOA, GIỚI THIỆU CHUNG (TƯƠNG TỰ IMAGE 1, PHẦN ĐẦU) TẠI ĐÂY]
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/40d85330-e5e5-4bcf-8004-07ecf70117e0" />
+
 
 ## 2. CÁC CÔNG NGHỆ ĐƯỢC SỬ DỤNG
 
