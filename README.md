@@ -6,9 +6,8 @@ Hệ thống Quản lý Thư viện được phát triển nhằm hỗ trợ cô
 
 ## 1. GIỚI THIỆU
 
-<img src="https://github.com/user-attachments/assets/40d85330-e5e5-4bcf-8004-07ecf70117e0" 
-     width="300" height="168" alt="image" 
-     style="display: block; margin: 0 auto;" />
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/06473026-8df6-4baa-b305-8ff45b1c748f" />
+
 
 
 
